@@ -1,15 +1,15 @@
 # -Data-structures-in-python
 
-Types of Data Structures in Python
-    Built-In Data Structures
-        Lists
-        Dictionary
-        Tuple
-        Sets
-    User-Defined Data Structure
-        Array
-        Stack
-        Queue
-        Linked List
-        Tree
-        Graph
+#-Types of Data Structures in Python
+    <h3>Built-In Data Structures<h3>
+    <ul><li>  Lists</li>
+        <li>Dictionary</li>
+       <li> Tuple<li>
+        <li>Sets<li></ul>
+    <h3>User-Defined Data Structure<h4>
+        <ul><li>Array</li>
+        <li>Stack</li>
+          <li>  Queue</li>
+        <li>Linked List</li>
+        <li>Tree</li>
+   <li> Graph</li>
